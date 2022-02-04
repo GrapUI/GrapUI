@@ -6,8 +6,8 @@
 <p>Love to learn about unexplored areas and help developing projects</p>
 
 <div>
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Hydro-GMVB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hydro-GMVB&layout=compact&langs_count=16&theme=dark"/>
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=GrapUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrapUI&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <h2>Coding Languages</h2>
@@ -35,5 +35,5 @@
   <a href = "mailto:guilhermemoreiravb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-moreira-700472121/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Hydro-GMVB/Hydro-GMVB/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GrapUI/GrapUI/blob/output/github-contribution-grid-snake.svg)
 </div>
