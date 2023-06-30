@@ -2,7 +2,7 @@
 
 
 <h2>About Me</h2>
-<p>Currently working on Cloud Computing with <span href="https://www.spectrasystems.com.br">Spectra Systems</span></p>
+<p>Currently working on Rope Health<span href="https://www.ropehealth.com.br">Spectra Systems</span></p>
 <p>Love to learn about unexplored areas and help developing projects</p>
 
 <div>
